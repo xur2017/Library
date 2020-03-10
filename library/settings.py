@@ -124,7 +124,7 @@ STATIC_URL = '/static/'
 # Redirect to home URL after login (Default redirects to /accounts/profile/)
 LOGIN_REDIRECT_URL = '/catalog/'
 
-MAILCHIMP_API_KEY = 'ca037170e8c3f78c73e0e119937e440e-us4'
+MAILCHIMP_API_KEY = '****-us4'
 MAILCHIMP_DATA_CENTER = 'us4'
-MAILCHIMP_EMAIL_LIST_ID = '856b494f8c'
+MAILCHIMP_EMAIL_LIST_ID = '****'
 
